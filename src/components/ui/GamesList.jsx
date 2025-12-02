@@ -1,6 +1,6 @@
 import React from "react";
-import Game from "./game";
 import GameSkeleton from "./GameSkeleton";
+import Game from "./Game";
 
 const GamesList = ({ games }) => {
 

@@ -1,6 +1,5 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import Game from "./ui/game";
 import GamesList from "./ui/GamesList";
 
 const PopularGames = () => {
